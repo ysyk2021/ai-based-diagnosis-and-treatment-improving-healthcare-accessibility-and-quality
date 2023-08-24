@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Diagnosis and Treatment
-==================================================================================================================
 
 Artificial Intelligence (AI) technologies have the potential to revolutionize healthcare, but it's important to ensure that these technologies are developed and used in an ethical and responsible manner. This chapter provides best practices for ensuring ethical and responsible AI in diagnosis and treatment.
 

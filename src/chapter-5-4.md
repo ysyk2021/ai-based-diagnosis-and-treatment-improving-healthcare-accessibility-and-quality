@@ -1,5 +1,3 @@
-Drug Discovery and Development
-===================================================================================================
 
 Artificial Intelligence (AI) technologies are also being used in drug discovery and development to improve healthcare outcomes. This chapter focuses on how AI algorithms can be used to accelerate drug discovery and development.
 

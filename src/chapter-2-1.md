@@ -1,5 +1,3 @@
-Overview of Diagnosis and Treatment
-===================================================================================
 
 Diagnosis and treatment are fundamental aspects of healthcare, and AI technology has the potential to revolutionize how these processes are conducted. In this chapter, we will provide an overview of diagnosis and treatment in healthcare.
 

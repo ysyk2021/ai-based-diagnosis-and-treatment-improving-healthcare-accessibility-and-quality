@@ -1,5 +1,3 @@
-Data Collection and Analysis for Diagnosis and Treatment
-=================================================================
 
 Data collection and analysis are critical components of diagnosis and treatment. The use of artificial intelligence (AI) in diagnosis and treatment relies on access to high-quality and diverse datasets. In this chapter, we will provide an overview of data collection and analysis for diagnosis and treatment.
 

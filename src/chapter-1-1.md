@@ -1,5 +1,3 @@
-The Need for AI-Based Diagnosis and Treatment
-====================================================================
 
 Artificial Intelligence (AI) technologies have the potential to revolutionize healthcare by improving accessibility, quality, and patient outcomes. This chapter introduces the need for AI-based diagnosis and treatment in healthcare.
 

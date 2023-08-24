@@ -1,5 +1,3 @@
-Overview of AI-Based Diagnosis and Treatment Techniques and Strategies
-===========================================================================================================================================
 
 AI-based diagnosis and treatment techniques and strategies are designed to improve healthcare outcomes by providing faster, more accurate, and efficient diagnosis and treatment decisions. In this chapter, we will provide an overview of AI-based diagnosis and treatment techniques and strategies.
 

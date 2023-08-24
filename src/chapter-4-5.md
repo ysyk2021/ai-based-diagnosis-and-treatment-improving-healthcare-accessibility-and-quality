@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-==========================================================================================================
 
 In addition to electronic health records and medical imaging, AI technology can also leverage data collected from social media and user behavior tracking to improve diagnosis and treatment outcomes. In this chapter, we will discuss the use of social media and user behavior tracking in AI-based diagnosis and treatment.
 

@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=================================================================
 
 As AI technology continues to revolutionize healthcare, ethical considerations have become increasingly important. In this chapter, we will discuss some future directions and challenges related to ethical considerations in AI-based diagnosis and treatment.
 

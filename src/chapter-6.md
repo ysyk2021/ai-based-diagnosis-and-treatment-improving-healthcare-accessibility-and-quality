@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================
 
 The use of Artificial Intelligence (AI) technologies in diagnosis and treatment has the potential to revolutionize healthcare delivery. However, there are ethical considerations that must be taken into account to ensure that AI is used in a responsible and ethical manner. This chapter explores these considerations and outlines best practices for ensuring ethical and responsible AI in diagnosis and treatment.
 

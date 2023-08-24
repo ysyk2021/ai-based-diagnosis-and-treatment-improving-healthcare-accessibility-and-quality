@@ -1,5 +1,3 @@
-Wearable Devices and Patient Monitoring
-==========================================================================================================
 
 Wearable devices and patient monitoring technologies provide a wealth of data that can be analyzed to improve diagnosis and treatment outcomes. In this chapter, we will discuss the use of wearable devices and patient monitoring in AI-based diagnosis and treatment.
 

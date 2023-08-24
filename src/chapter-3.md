@@ -1,5 +1,3 @@
-Artificial Intelligence in Diagnosis and Treatment
-===========================================================
 
 Artificial intelligence (AI) has the potential to revolutionize diagnosis and treatment in healthcare by improving decision-making processes. In this chapter, we will discuss the types of AI used in diagnosis and treatment, their advantages and limitations, and case studies on their use.
 

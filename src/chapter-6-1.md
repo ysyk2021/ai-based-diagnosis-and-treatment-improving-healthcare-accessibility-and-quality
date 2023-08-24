@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Diagnosis and Treatment
-========================================================================================================
 
 AI technology has the potential to revolutionize healthcare by improving diagnosis and treatment. However, it also raises ethical issues that must be addressed to ensure that AI is used ethically and responsibly. In this chapter, we will discuss some ethical issues associated with the use of AI in diagnosis and treatment.
 

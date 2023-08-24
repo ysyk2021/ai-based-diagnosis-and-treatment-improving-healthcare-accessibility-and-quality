@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Diagnosis and Treatment
-=====================================================================================================================
 
 Artificial Intelligence (AI) technologies are being increasingly used in diagnosis and treatment to improve healthcare outcomes. This chapter provides case studies on the use of AI in diagnosis and treatment.
 

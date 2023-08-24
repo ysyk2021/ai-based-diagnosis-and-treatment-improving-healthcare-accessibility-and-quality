@@ -1,5 +1,3 @@
-Computer-Aided Diagnosis and Image Analysis
-================================================================================================================
 
 One of the most exciting applications of Artificial Intelligence (AI) in healthcare is computer-aided diagnosis and image analysis. This chapter focuses on how AI algorithms can be used to analyze medical images and assist clinicians in making more accurate and informed diagnoses.
 

@@ -1,5 +1,3 @@
-Chapter: AI-Based Diagnosis and Treatment Techniques and Strategies
-===================================================================
 
 The use of artificial intelligence (AI) in diagnosis and treatment has the potential to revolutionize healthcare by providing faster, more accurate, and efficient diagnosis and treatment decisions. In this chapter, we will provide an overview of AI-based diagnosis and treatment techniques and strategies.
 

@@ -1,5 +1,3 @@
-Electronic Health Records and Medical Imaging
-================================================================================================================
 
 AI technology has the potential to revolutionize healthcare by improving diagnosis and treatment outcomes. One of the key advantages of AI is its ability to analyze large quantities of data quickly and accurately. In this chapter, we will discuss two essential sources of data collection and analysis in AI-based diagnosis and treatment: electronic health records (EHRs) and medical imaging.
 

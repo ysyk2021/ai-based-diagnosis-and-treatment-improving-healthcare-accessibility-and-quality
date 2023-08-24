@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Diagnosis and Treatment
-========================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize diagnosis and treatment by providing faster, more accurate, and efficient diagnosis and treatment decisions. However, there are both advantages and limitations associated with the use of AI in diagnosis and treatment.
 

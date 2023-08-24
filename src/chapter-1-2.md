@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Healthcare
-=============================================================================================
 
 Artificial intelligence (AI) involves the use of computer algorithms to identify patterns and trends in large datasets. In healthcare, AI can be used to analyze patient data and generate insights that can inform diagnosis and treatment decisions.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) technologies have the potential to revolutionize healthcare by improving accessibility, quality, and patient outcomes. The use of AI in diagnosis and treatment has been growing rapidly in recent years, with advancements in machine learning, computer vision, natural language processing, and robotics.
 

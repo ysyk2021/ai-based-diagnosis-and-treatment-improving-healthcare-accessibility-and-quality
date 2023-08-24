@@ -1,5 +1,3 @@
-Genomics and Personalized Medicine
-=====================================================================================================
 
 One of the most promising applications of Artificial Intelligence (AI) in healthcare is personalized medicine based on genomics. This chapter focuses on how genomics data is collected, analyzed, and used in diagnosis and treatment using AI.
 

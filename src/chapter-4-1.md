@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Diagnosis and Treatment
-=======================================================================================================================================
 
 Artificial Intelligence (AI) technologies in healthcare rely heavily on accurate and comprehensive data collection and analysis. This chapter provides an overview of data collection and analysis for diagnosis and treatment using AI.
 

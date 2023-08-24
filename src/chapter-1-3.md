@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-===========================================================
 
 This book explores the use of Artificial Intelligence (AI) in diagnosis and treatment to improve healthcare accessibility and quality. The objectives of this book are to:
 

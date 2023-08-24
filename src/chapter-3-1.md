@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Diagnosis and Treatment
-===============================================================================================================================================
 
 Artificial intelligence (AI) has many applications in diagnosis and treatment, including computer-aided diagnosis, clinical decision support systems, robotics, and drug discovery. In this chapter, we will provide an overview of the types of AI and their applications in diagnosis and treatment.
 

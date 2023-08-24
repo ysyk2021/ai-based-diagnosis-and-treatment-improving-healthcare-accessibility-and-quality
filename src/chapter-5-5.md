@@ -1,5 +1,3 @@
-Robotics and Surgical Assistance
-=====================================================================================================
 
 In addition to computer-aided diagnosis and image analysis, Artificial Intelligence (AI) technologies are also being used in robotics and surgical assistance. This chapter focuses on how AI algorithms can be used to improve surgical outcomes and accessibility.
 

@@ -1,5 +1,3 @@
-Clinical Decision Support Systems
-======================================================================================================
 
 Clinical decision support systems (CDSS) are designed to assist healthcare providers in making diagnosis and treatment decisions by leveraging the power of artificial intelligence (AI) technology. In this chapter, we will discuss CDSS and their role in improving healthcare accessibility and quality.
 

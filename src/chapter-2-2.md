@@ -1,5 +1,3 @@
-Traditional Approaches to Healthcare
-====================================================================================
 
 Traditional approaches to diagnosis and treatment in healthcare have evolved over centuries, with the goal of improving patient outcomes. In this chapter, we will provide an overview of traditional approaches to healthcare.
 
